@@ -1,0 +1,38 @@
+<annotation>
+	<folder>negtive</folder>
+	<filename>322.jpg</filename>
+	<path>C:\Users\Administrator\Downloads\wrinkling_iron_detection-master\data\negtive\322.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>352</width>
+		<height>288</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>wrinkled steel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>205</xmin>
+			<ymin>85</ymin>
+			<xmax>275</xmax>
+			<ymax>112</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>wrinkled steel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>220</xmin>
+			<ymin>117</ymin>
+			<xmax>261</xmax>
+			<ymax>202</ymax>
+		</bndbox>
+	</object>
+</annotation>
